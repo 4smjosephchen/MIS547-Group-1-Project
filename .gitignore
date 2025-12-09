@@ -1,0 +1,9 @@
+# Data Files (Do not commit large data or temporary outputs)
+*.csv
+*.txt
+
+# Python and System Exclusions
+__pycache__
+*.pyc
+venv
+.DS_Store

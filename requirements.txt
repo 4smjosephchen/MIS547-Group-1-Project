@@ -1,0 +1,7 @@
+selenium
+pandas
+sqlalchemy
+psycopg2-binary
+yfinance
+requests
+webdriver-manager
