@@ -1,0 +1,2 @@
+# Run at 4:00 AM on the 1st and 15th of every month
+0 4 1,15 * * /usr/local/bin/python /app/train.py >> /var/log/training.log 2>&1

@@ -1,0 +1,8 @@
+# Data and Model Exclusions
+*.csv
+*.h5
+*.pb
+__pycache__
+*.pyc
+venv
+.DS_Store
